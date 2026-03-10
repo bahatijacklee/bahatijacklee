@@ -44,11 +44,10 @@ Passionate about engineering **scalable backend architectures**, securing **dece
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahatijacklee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Bahati's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahatijacklee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bahatijacklee&show_icons=true&theme=radical&hide_border=true" alt="Bahati's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahatijacklee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 ### 📫 Let's Connect!
